@@ -1,0 +1,21 @@
+Brik kørte forbi: +++++++++
+
+Brik på slisken: +++++
+
+PLC stop: +++++++++++++++++++++++
+PLC statemachine fejl: +
+
+Brik placering i buffer: +++++++++++
+
+Misclassificering: +++++++++
+
+Feeder fejl: +++++
+
+Minor Maintenance
+	New tape: ++
+
+Major Systematisk buffer fejl: +
+Major Maintenance tool: +
+Major change in PLC code: +++
+Major robot angriper brik: +
+	-	New calibration: +

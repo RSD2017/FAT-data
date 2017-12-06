@@ -1,0 +1,1400 @@
+Part 1
+	Status  1
+Part 2
+	Status  0
+Part 3
+	Status  1
+Part 4
+	Status  1
+Part 5
+	Status  1
+Part 6
+	Status  0
+Part 7
+	Status  1
+Part 8
+	Status  1
+Part 9
+	Status  0
+Part 10
+	Status  1
+Part 11
+	Status  1
+Part 12
+	Status  0
+Part 13
+	Status  1
+Part 14
+	Status  1
+Part 15
+	Status  0
+Part 16
+	Status  0
+Part 17
+	Status  1
+Part 18
+	Status  1
+Part 19
+	Status  0
+Part 20
+	Status  1
+Part 21
+	Status  0
+Part 22
+	Status  1
+Part 23
+	Status  1
+Part 24
+	Status  0
+Part 25
+	Status  1
+Part 26
+	Status  1
+Part 27
+	Status  0
+Part 28
+	Status  1
+Part 29
+	Status  1
+Part 30
+	Status  0
+Part 31
+	Status  1
+Part 32
+	Status  0
+Part 33
+	Status  1
+Part 34
+	Status  1
+Part 35
+	Status  0
+Part 36
+	Status  1
+Part 37
+	Status  1
+Part 38
+	Status  1
+Part 39
+	Status  0
+Part 40
+	Status  1
+Part 41
+	Status  1
+Part 42
+	Status  0
+Part 43
+	Status  1
+Part 44
+	Status  0
+Part 45
+	Status  1
+Part 46
+	Status  1
+Part 47
+	Status  0
+Part 48
+	Status  1
+Part 49
+	Status  1
+Part 50
+	Status  0
+Part 51
+	Status  1
+Part 52
+	Status  1
+Part 53
+	Status  0
+Part 54
+	Status  1
+Part 55
+	Status  1
+Part 56
+	Status  0
+Part 57
+	Status  1
+Part 58
+	Status  1
+Part 59
+	Status  0
+Part 60
+	Status  1
+Part 61
+	Status  1
+Part 62
+	Status  0
+Part 63
+	Status  1
+Part 64
+	Status  1
+Part 65
+	Status  0
+Part 66
+	Status  0
+Part 67
+	Status  1
+Part 68
+	Status  1
+Part 69
+	Status  0
+Part 70
+	Status  1
+Part 71
+	Status  1
+Part 72
+	Status  0
+Part 73
+	Status  1
+Part 74
+	Status  1
+Part 75
+	Status  0
+Part 76
+	Status  1
+Part 77
+	Status  1
+Part 78
+	Status  0
+Part 79
+	Status  1
+Part 80
+	Status  0
+Part 81
+	Status  1
+Part 82
+	Status  1
+Part 83
+	Status  0
+Part 84
+	Status  1
+Part 85
+	Status  0
+Part 86
+	Status  1
+Part 87
+	Status  1
+Part 88
+	Status  0
+Part 89
+	Status  1
+Part 90
+	Status  1
+Part 91
+	Status  0
+Part 92
+	Status  1
+Part 93
+	Status  1
+Part 94
+	Status  0
+Part 95
+	Status  1
+Part 96
+	Status  1
+Part 97
+	Status  0
+Part 98
+	Status  1
+Part 99
+	Status  1
+Part 100
+	Status  0
+Part 101
+	Status  1
+Part 102
+	Status  1
+Part 103
+	Status  0
+Part 104
+	Status  1
+Part 105
+	Status  1
+Part 106
+	Status  0
+Part 107
+	Status  1
+Part 108
+	Status  1
+Part 109
+	Status  0
+Part 110
+	Status  1
+Part 111
+	Status  1
+Part 112
+	Status  0
+Part 113
+	Status  0
+Part 114
+	Status  1
+Part 115
+	Status  0
+Part 116
+	Status  1
+Part 117
+	Status  1
+Part 118
+	Status  0
+	Status  Buffer full
+Part 119
+	Status  1
+Part 120
+	Status  1
+Part 121
+	Status  0
+	Status  Buffer full
+Part 122
+	Status  1
+Part 123
+	Status  1
+Part 124
+	Status  0
+	Status  Buffer full
+Part 125
+	Status  0
+	Status  Buffer full
+Part 126
+	Status  1
+Part 127
+	Status  1
+Part 128
+	Status  0
+Part 129
+	Status  1
+Part 130
+	Status  1
+Part 131
+	Status  0
+Part 132
+	Status  1
+Part 133
+	Status  1
+Part 134
+	Status  0
+Part 135
+	Status  1
+Part 136
+	Status  1
+Part 137
+	Status  0
+Part 138
+	Status  1
+Part 139
+	Status  0
+Part 140
+	Status  0
+Part 141
+	Status  1
+Part 142
+	Status  1
+Part 143
+	Status  0
+Part 144
+	Status  0
+Part 145
+	Status  1
+Part 146
+	Status  0
+Part 147
+	Status  1
+Part 148
+	Status  1
+Part 149
+	Status  0
+Part 150
+	Status  1
+Part 151
+	Status  1
+Part 152
+	Status  0
+Part 153
+	Status  1
+Part 154
+	Status  1
+Part 155
+	Status  0
+Part 156
+	Status  1
+Part 157
+	Status  1
+Part 158
+	Status  0
+Part 159
+	Status  1
+Part 160
+	Status  1
+Part 161
+	Status  0
+	Status  Buffer full
+Part 162
+	Status  1
+Part 163
+	Status  1
+Part 164
+	Status  0
+Part 165
+	Status  1
+Part 166
+	Status  1
+Part 167
+	Status  0
+	Status  Buffer full
+Part 168
+	Status  1
+Part 169
+	Status  0
+	Status  Buffer full
+Part 170
+	Status  1
+Part 171
+	Status  1
+Part 172
+	Status  0
+Part 173
+	Status  1
+Part 174
+	Status  1
+Part 175
+	Status  0
+Part 176
+	Status  1
+Part 177
+	Status  1
+Part 178
+	Status  0
+Part 179
+	Status  1
+Part 180
+	Status  1
+Part 181
+	Status  0
+Part 182
+	Status  1
+Part 183
+	Status  1
+Part 184
+	Status  0
+Part 185
+	Status  1
+Part 186
+	Status  1
+Part 187
+	Status  0
+	Status  Buffer full
+Part 188
+	Status  1
+Part 189
+	Status  1
+Part 190
+	Status  0
+	Status  Buffer full
+Part 191
+	Status  1
+Part 192
+	Status  0
+	Status  Buffer full
+Part 193
+	Status  1
+Part 194
+	Status  1
+Part 195
+	Status  0
+	Status  Buffer full
+Part 196
+	Status  1
+Part 197
+	Status  1
+Part 198
+	Status  0
+Part 199
+	Status  1
+Part 200
+	Status  1
+Part 201
+	Status  0
+Part 202
+	Status  1
+Part 203
+	Status  0
+Part 204
+	Status  0
+Part 205
+	Status  1
+Part 206
+	Status  0
+Part 207
+	Status  0
+	Status  Buffer full
+Part 208
+	Status  1
+Part 209
+	Status  1
+Part 210
+	Status  0
+	Status  Buffer full
+Part 211
+	Status  1
+Part 212
+	Status  1
+Part 213
+	Status  0
+	Status  Buffer full
+Part 214
+	Status  1
+Part 215
+	Status  0
+	Status  Buffer full
+Part 216
+	Status  1
+Part 217
+	Status  1
+Part 218
+	Status  1
+Part 219
+	Status  0
+Part 220
+	Status  1
+Part 221
+	Status  1
+Part 222
+	Status  0
+	Status  Buffer full
+Part 223
+	Status  1
+Part 224
+	Status  0
+Part 225
+	Status  1
+Part 226
+	Status  0
+Part 227
+	Status  0
+	Status  Buffer full
+Part 228
+	Status  1
+Part 229
+	Status  1
+Part 230
+	Status  0
+Part 231
+	Status  1
+Part 232
+	Status  1
+Part 233
+	Status  0
+Part 234
+	Status  1
+Part 235
+	Status  1
+Part 236
+	Status  0
+Part 237
+	Status  1
+Part 238
+	Status  0
+Part 239
+	Status  1
+Part 240
+	Status  1
+Part 241
+	Status  0
+	Status  Buffer full
+Part 242
+	Status  1
+Part 243
+	Status  1
+Part 244
+	Status  0
+Part 245
+	Status  1
+Part 246
+	Status  1
+Part 247
+	Status  0
+Part 248
+	Status  0
+	Status  Buffer full
+Part 249
+	Status  1
+Part 250
+	Status  1
+Part 251
+	Status  0
+Part 252
+	Status  1
+Part 253
+	Status  1
+Part 254
+	Status  0
+	Status  Buffer full
+Part 255
+	Status  1
+Part 256
+	Status  1
+Part 257
+	Status  0
+Part 258
+	Status  1
+Part 259
+	Status  1
+Part 260
+	Status  0
+Part 261
+	Status  1
+Part 262
+	Status  0
+	Status  Buffer full
+Part 263
+	Status  1
+Part 264
+	Status  1
+Part 265
+	Status  0
+Part 266
+	Status  1
+Part 267
+	Status  1
+Part 268
+	Status  1
+Part 269
+	Status  0
+Part 270
+	Status  1
+Part 271
+	Status  1
+Part 272
+	Status  0
+Part 273
+	Status  1
+Part 274
+	Status  1
+Part 275
+	Status  0
+Part 276
+	Status  1
+Part 277
+	Status  0
+Part 278
+	Status  1
+Part 279
+	Status  1
+Part 280
+	Status  0
+	Status  Buffer full
+Part 281
+	Status  1
+Part 282
+	Status  1
+Part 283
+	Status  0
+Part 284
+	Status  0
+Part 285
+	Status  1
+Part 286
+	Status  1
+Part 287
+	Status  0
+	Status  Buffer full
+Part 288
+	Status  1
+Part 289
+	Status  1
+Part 290
+	Status  0
+Part 291
+	Status  1
+Part 292
+	Status  1
+Part 293
+	Status  0
+Part 294
+	Status  1
+Part 295
+	Status  1
+Part 296
+	Status  1
+Part 297
+	Status  0
+Part 298
+	Status  1
+Part 299
+	Status  1
+Part 300
+	Status  0
+Part 301
+	Status  1
+Part 302
+	Status  1
+Part 303
+	Status  0
+Part 304
+	Status  0
+Part 305
+	Status  1
+Part 306
+	Status  1
+Part 307
+	Status  0
+	Status  Buffer full
+Part 308
+	Status  1
+Part 309
+	Status  1
+Part 310
+	Status  0
+	Status  Buffer full
+Part 311
+	Status  1
+Part 312
+	Status  1
+Part 313
+	Status  0
+	Status  Buffer full
+Part 314
+	Status  1
+Part 315
+	Status  1
+Part 316
+	Status  0
+Part 317
+	Status  1
+Part 318
+	Status  1
+Part 319
+	Status  0
+Part 320
+	Status  1
+Part 321
+	Status  1
+Part 322
+	Status  0
+Part 323
+	Status  1
+Part 324
+	Status  1
+Part 325
+	Status  0
+Part 326
+	Status  1
+Part 327
+	Status  0
+Part 328
+	Status  1
+Part 329
+	Status  1
+Part 330
+	Status  0
+Part 331
+	Status  1
+Part 332
+	Status  1
+Part 333
+	Status  0
+Part 334
+	Status  0
+Part 335
+	Status  0
+Part 336
+	Status  1
+Part 337
+	Status  1
+Part 338
+	Status  0
+Part 339
+	Status  1
+Part 340
+	Status  1
+Part 341
+	Status  1
+Part 342
+	Status  0
+Part 343
+	Status  1
+Part 344
+	Status  1
+Part 345
+	Status  1
+Part 346
+	Status  0
+Part 347
+	Status  0
+Part 348
+	Status  0
+Part 349
+	Status  1
+Part 350
+	Status  0
+Part 351
+	Status  1
+Part 352
+	Status  1
+Part 353
+	Status  1
+	Status  Buffer full
+Part 354
+	Status  0
+Part 355
+	Status  0
+Part 356
+	Status  1
+Part 357
+	Status  1
+Part 358
+	Status  1
+Part 359
+	Status  0
+Part 360
+	Status  1
+Part 361
+	Status  0
+Part 362
+	Status  1
+Part 363
+	Status  1
+Part 364
+	Status  0
+Part 365
+	Status  1
+Part 366
+	Status  1
+Part 367
+	Status  0
+Part 368
+	Status  1
+Part 369
+	Status  1
+Part 370
+	Status  0
+Part 371
+	Status  1
+Part 372
+	Status  1
+Part 373
+	Status  0
+Part 374
+	Status  1
+Part 375
+	Status  1
+Part 376
+	Status  0
+Part 377
+	Status  0
+Part 378
+	Status  0
+Part 379
+	Status  1
+Part 380
+	Status  1
+Part 381
+	Status  0
+Part 382
+	Status  1
+Part 383
+	Status  1
+Part 384
+	Status  0
+Part 385
+	Status  1
+	Status  Buffer full
+Part 386
+	Status  1
+	Status  Buffer full
+Part 387
+	Status  0
+Part 388
+	Status  1
+Part 389
+	Status  1
+Part 390
+	Status  0
+Part 391
+	Status  1
+Part 392
+	Status  1
+	Status  Buffer full
+Part 393
+	Status  0
+Part 394
+	Status  1
+Part 395
+	Status  1
+Part 396
+	Status  0
+Part 397
+	Status  0
+Part 398
+	Status  0
+Part 399
+	Status  1
+Part 400
+	Status  1
+Part 401
+	Status  1
+Part 402
+	Status  0
+Part 403
+	Status  0
+Part 404
+	Status  1
+Part 405
+	Status  1
+Part 406
+	Status  0
+Part 407
+	Status  1
+Part 408
+	Status  1
+Part 409
+	Status  0
+Part 410
+	Status  1
+Part 411
+	Status  1
+Part 412
+	Status  0
+Part 413
+	Status  1
+Part 414
+	Status  1
+Part 415
+	Status  0
+Part 416
+	Status  1
+Part 417
+	Status  1
+Part 418
+	Status  1
+Part 419
+	Status  0
+	Status  Buffer full
+Part 420
+	Status  1
+Part 421
+	Status  1
+Part 422
+	Status  0
+	Status  Buffer full
+Part 423
+	Status  1
+Part 424
+	Status  0
+	Status  Buffer full
+Part 425
+	Status  1
+Part 426
+	Status  1
+Part 427
+	Status  0
+	Status  Buffer full
+Part 428
+	Status  1
+Part 429
+	Status  0
+	Status  Buffer full
+Part 430
+	Status  0
+	Status  Buffer full
+Part 431
+	Status  1
+Part 432
+	Status  1
+Part 433
+	Status  0
+	Status  Buffer full
+Part 434
+	Status  1
+Part 435
+	Status  1
+Part 436
+	Status  0
+	Status  Buffer full
+Part 437
+	Status  1
+Part 438
+	Status  0
+	Status  Buffer full
+Part 439
+	Status  1
+Part 440
+	Status  1
+Part 441
+	Status  0
+	Status  Buffer full
+Part 442
+	Status  1
+Part 443
+	Status  1
+Part 444
+	Status  0
+Part 445
+	Status  1
+Part 446
+	Status  1
+Part 447
+	Status  0
+Part 448
+	Status  0
+Part 449
+	Status  1
+Part 450
+	Status  0
+Part 451
+	Status  1
+Part 452
+	Status  1
+Part 453
+	Status  0
+	Status  Buffer full
+Part 454
+	Status  1
+Part 455
+	Status  1
+Part 456
+	Status  0
+Part 457
+	Status  1
+Part 458
+	Status  1
+Part 459
+	Status  1
+Part 460
+	Status  1
+Part 461
+	Status  0
+Part 462
+	Status  1
+Part 463
+	Status  1
+Part 464
+	Status  1
+Part 465
+	Status  0
+Part 466
+	Status  1
+Part 467
+	Status  1
+Part 468
+	Status  1
+Part 469
+	Status  0
+Part 470
+	Status  1
+Part 471
+	Status  0
+Part 472
+	Status  1
+Part 473
+	Status  1
+Part 474
+	Status  0
+Part 475
+	Status  0
+Part 476
+	Status  1
+Part 477
+	Status  1
+Part 478
+	Status  1
+Part 479
+	Status  0
+Part 480
+	Status  1
+Part 481
+	Status  1
+Part 482
+	Status  1
+Part 483
+	Status  1
+Part 484
+	Status  0
+Part 485
+	Status  0
+Part 486
+	Status  1
+Part 487
+	Status  0
+Part 488
+	Status  1
+Part 489
+	Status  1
+Part 490
+	Status  1
+Part 491
+	Status  1
+Part 492
+	Status  0
+Part 493
+	Status  1
+Part 494
+	Status  1
+Part 495
+	Status  0
+Part 496
+	Status  1
+Part 497
+	Status  0
+Part 498
+	Status  0
+Part 499
+	Status  1
+Part 500
+	Status  0
+Part 501
+	Status  1
+Part 502
+	Status  1
+Part 503
+	Status  1
+Part 504
+	Status  0
+Part 505
+	Status  1
+Part 506
+	Status  1
+Part 507
+	Status  1
+	Status  Buffer full
+Part 508
+	Status  0
+Part 509
+	Status  1
+Part 510
+	Status  1
+Part 511
+	Status  0
+Part 512
+	Status  0
+Part 513
+	Status  1
+Part 514
+	Status  1
+Part 515
+	Status  1
+Part 516
+	Status  0
+Part 517
+	Status  1
+Part 518
+	Status  1
+Part 519
+	Status  1
+Part 520
+	Status  0
+Part 521
+	Status  0
+Part 522
+	Status  1
+Part 523
+	Status  1
+Part 524
+	Status  0
+Part 525
+	Status  1
+Part 526
+	Status  1
+Part 527
+	Status  0
+Part 528
+	Status  0
+Part 529
+	Status  1
+Part 530
+	Status  0
+Part 531
+	Status  1
+Part 532
+	Status  0
+Part 533
+	Status  1
+Part 534
+	Status  1
+Part 535
+	Status  0
+Part 536
+	Status  1
+Part 537
+	Status  0
+Part 538
+	Status  1
+Part 539
+	Status  0
+Part 540
+	Status  1
+Part 541
+	Status  1
+Part 542
+	Status  1
+Part 543
+	Status  0
+Part 544
+	Status  0
+Part 545
+	Status  1
+Part 546
+	Status  1
+Part 547
+	Status  0
+Part 548
+	Status  1
+Part 549
+	Status  1
+Part 550
+	Status  0
+	Status  Buffer full
+Part 551
+	Status  1
+Part 552
+	Status  1
+Part 553
+	Status  0
+Part 554
+	Status  1
+Part 555
+	Status  1
+Part 556
+	Status  0
+Part 557
+	Status  1
+Part 558
+	Status  0
+Part 559
+	Status  1
+Part 560
+	Status  1
+Part 561
+	Status  0
+Part 562
+	Status  1
+Part 563
+	Status  1
+Part 564
+	Status  1
+Part 565
+	Status  0
+Part 566
+	Status  1
+Part 567
+	Status  1
+Part 568
+	Status  1
+Part 569
+	Status  0
+Part 570
+	Status  1
+Part 571
+	Status  1
+Part 572
+	Status  0
+Part 573
+	Status  1
+Part 574
+	Status  1
+Part 575
+	Status  0
+Part 576
+	Status  0
+Part 577
+	Status  1
+Part 578
+	Status  1
+Part 579
+	Status  0
+Part 580
+	Status  0
+Part 581
+	Status  1
+Part 582
+	Status  1
+Part 583
+	Status  0
+Part 584
+	Status  1
+Part 585
+	Status  1
+Part 586
+	Status  1
+Part 587
+	Status  0
+Part 588
+	Status  1
+Part 589
+	Status  1
+Part 590
+	Status  0
+Part 591
+	Status  0
+Part 592
+	Status  1
+Part 593
+	Status  1
+Part 594
+	Status  1
+Part 595
+	Status  0
+Part 596
+	Status  0
+Part 597
+	Status  0
+Part 598
+	Status  1
+Part 599
+	Status  1
+Part 600
+	Status  0
+Part 601
+	Status  1
+Part 602
+	Status  1
+Part 603
+	Status  1
+Part 604
+	Status  1
+Part 605
+	Status  0
+Part 606
+	Status  1
+Part 607
+	Status  0
+Part 608
+	Status  1
+Part 609
+	Status  1
+Part 610
+	Status  1
+Part 611
+	Status  0
+Part 612
+	Status  1
+Part 613
+	Status  1
+Part 614
+	Status  1
+Part 615
+	Status  0
+Part 616
+	Status  1
+Part 617
+	Status  0
+Part 618
+	Status  1
+Part 619
+	Status  0
+Part 620
+	Status  1
+Part 621
+	Status  1
+Part 622
+	Status  1
+Part 623
+	Status  0
+Part 624
+	Status  1
+Part 625
+	Status  0
+Part 626
+	Status  1
+Part 627
+	Status  1
+Part 628
+	Status  0
+Part 629
+	Status  1
+Part 630
+	Status  1
+Part 631
+	Status  0
+Part 632
+	Status  1
+Part 633
+	Status  0
+Part 634
+	Status  1
+Part 635
+	Status  1
+Part 636
+	Status  1
+Part 637
+	Status  1
+Part 638
+	Status  0
+Part 639
+	Status  0
+Part 640
+	Status  1
+Part 641
+	Status  1
+Part 642
+	Status  0
+Part 643
+	Status  1
+Part 644
+	Status  1
+Part 645
+	Status  0
+Part 646
+	Status  0
+Part 647
+	Status  1
+Part 648
+	Status  0
+Part 649
+	Status  1
+Part 650
+	Status  1
+Part 651
+	Status  1
+Part 652
+	Status  0
+Part 653
+	Status  1
+Part 654
+	Status  1
+Part 655
+	Status  0
+Part 656
+	Status  1
+Part 657
+	Status  1
+Part 658
+	Status  0
+Part 659
+	Status  1
+Part 660
+	Status  1
+Part 661
+	Status  0
+Part 662
+	Status  1
+Part 663
+	Status  1
+Part 664
+	Status  0
+Part 665
+	Status  1
+Part 666
+	Status  1
+Part 667
+	Status  1
+Part 668
+	Status  0
+Part 669
+	Status  1
+Part 670
+	Status  1
+Part 671
+	Status  0
+Part 672
+	Status  1
+Part 673
+	Status  1
+Part 674
+	Status  0
+Part 675
+	Status  1
+Part 676
+	Status  0
+Part 677
+	Status  0
+Part 678
+	Status  0
+

@@ -1,0 +1,14 @@
+ERROR FILE 10:7:0
+time,error_msg
+10:7:56,system_start
+10:19:28,brick forkert i buffer
+10:24:6,system_stop
+10:24:6,mantainence
+10:26:41,system_start
+10:29:27,brick kører forbi
+10:31:18,brick forkert i buffer
+10:34:7,system_stop
+10:36:22,system_start
+10:52:53,brick kører forbi
+10:56:8,misclassification
+11:20:43,system_stop

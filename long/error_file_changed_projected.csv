@@ -1,0 +1,99 @@
+time;error_msg
+09:55:34;system_start
+10:17:53;brick forkert i buffer
+10:22:07;Brick forbi gripper
+10:51:34;system_stop
+10:51:34;brick forkert i buffer
+10:52:11;system_start
+10:57:42;misclasification
+11:08:14;system_stop
+11:16:38;system_start
+11:19:04;brick kører forbi
+11:20:39;system_stop
+11:21:10;system_start
+11:27:33;system_stop
+11:27:33;major - maintenance
+11:29:07;system_start
+11:30:31;misclassification
+11:38:45;brick forkert i buffer
+11:41:57;misclassification
+11:43:07;system_stop
+11:43:07;feeder block
+11:43:15;system_start
+11:55:28;major - maintenance
+12:04:21;brick forkert i buffer
+12:17:10;system_stop
+12:17:25;system_start
+12:17:34;brick forkert i buffer
+12:29:31;misclassification
+12:42:08;brick forkert i buffer
+13:11:30;system_stop
+13:11:30;major - maintenance
+13:35:57;system_start
+13:37:36;system_stop
+13:37:36;brick forkert i buffer
+13:37:58;system_start
+13:50:34;system_stop
+13:50:34;maintenance
+14:03:09;system_start
+14:04:06;system_stop
+14:04:06;maintenance
+14:10:41;system_start
+14:31:33;system_stop
+14:36:08;system_start
+14:40:44;Brick forbi gripper
+15:19:40;misclassification
+15:21:04;misclassification
+15:22:01;misclassification
+15:47:41;system_stop
+15:47:41;feederfejl
+15:47:51;system_start
+15:48:12;system_stop
+15:48:12;feederfejl
+15:48:22;system_start
+15:50:20;misclassification
+15:52:40;misclassification
+15:54:02;system_stop
+15:54:02;brick forkert i buffer
+15:54:19;system_start
+16:00:47;system_stop
+16:00:47;feeder stop
+16:00:57;system_start
+16:10:54;system_stop
+16:11:56;system_start
+16:23:26;system_stop
+16:23:26;brick forkert i buffer
+16:23:52;system_start
+16:37:30;system_stop
+16:37:30;brick forkert i buffer
+16:42:14;system_start
+16:53:22;system_stop
+16:53:29;system_start
+16:53:49;feederfejl
+17:06:30;misclassification
+17:06:49;system_stop
+17:06:49;brick forkert i buffer
+17:07:34;system_start
+17:12:03;Brick gik forbi gripper
+17:14:13;misclassification
+17:15:20;system_stop
+17:15:20;brick forkert i buffer
+17:16:04;system_start
+17:22:56;system_stop
+17:22:56;feederfejl
+17:23:16;system_start
+17:32:08;system_stop
+17:32:16;brick forkert i buffer
+17:32:18;system_start
+17:36:51;system_stop
+17:36:51;brick forkert i buffer
+17:37:12;system_start
+17:51:48;system_stop
+17:51:48;brick forkert i buffer
+17:52:08;system_start
+17:55:15;system_stop
+17:55:30;system_start
+17:56:22;system_stop
+17:56:22;brick forkert i buffer
+17:57:00;system_start
+17:57:05;system_stop
